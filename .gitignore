@@ -3,3 +3,7 @@
 ################################################################################
 
 /DialogReturnsToParentExample/.vs/DialogReturnsToParentExample
+/DialogReturnsToParentExample/DialogReturnsToParentExample/DialogReturnsToParentExample/bin/Debug/netcoreapp2.1
+/DialogReturnsToParentExample/DialogReturnsToParentExample/DialogReturnsToParentExample/obj
+/DialogReturnsToParentExample/DialogReturnsToParentExample/DialogReturnsToParentExample.Tests/bin/Debug/netcoreapp2.1
+/DialogReturnsToParentExample/DialogReturnsToParentExample/DialogReturnsToParentExample.Tests/obj
